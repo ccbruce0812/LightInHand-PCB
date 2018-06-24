@@ -1,2 +1,2 @@
 # LightInHand-PCB
-The PCB of LightInHand
+PCB of [LightInHand](https://github.com/ccbruce0812/LightInHand.git)
